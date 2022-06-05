@@ -23,7 +23,7 @@ mailwind --input-html email.html --output-css style.css
 Or run this command to generate an inlined HTML file:
 
 ```
-mailwind --input-html email.html --output-html email-inlined.html
+mailwind --input-html email.html --output-html index.html
 ```
 
 ## Options
