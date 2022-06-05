@@ -1,7 +1,8 @@
 # grant-solutions-sas-email
- mailwind used for implmenting email design
+ mailwind package used for implmenting email design. See the github page: 
+[https://stackshare.io/mailwind](https://yesandagency.github.io/grant-solutions-sas-email/)
 
-mailwind --input-html email.html --output-html email-inlined.html
+mailwind --input-html email.html --output-html index.html
 
 https://stackshare.io/mailwind
 
