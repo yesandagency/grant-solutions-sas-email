@@ -1,7 +1,20 @@
 # grant-solutions-sas-email
-Uses table rows to control .green-status or .red-status classes
 
-## <tr class="green-status">
+## Implementing dynamic classes for red and green
+Use a dynamic class .green-status or .red-status depending on report. 
+Example Entry:
+```
+<tr class="green-status">
+ <td>[APP TITLE]</td>
+ <td><div></div><span></span></td>
+ <td>[UPTIME %]</td>
+</tr>
+
+<tr class="red-status">
+ <td>[APP TITLE]</td>
+ <td><div></div><span></span></td>
+ <td>[UPTIME %]</td>
+</tr>
 ```
 
 # Developer notes
