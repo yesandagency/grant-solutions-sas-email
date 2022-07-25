@@ -1,4 +1,10 @@
 # grant-solutions-sas-email
+Uses table rows to control .green-status or .red-status classes
+
+## <tr class="green-status">
+```
+
+# Developer notes
  mailwind package used for implmenting email design. See the github page: 
 [yesandagency.github.io/grant-solutions-sas-email](https://yesandagency.github.io/grant-solutions-sas-email/)
 
